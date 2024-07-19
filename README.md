@@ -19,7 +19,7 @@ Links do projeto:
 -   [Documentação (esse documento)](https://github.com/Vi140906/TCC-2024)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Vi140906/HackatonIntegrado) e [Publicação](http://inovahouse.surge.sh/)
--   Figma: (https://www.figma.com/design/NBYPVQZgF4cMe1t1GXjtJO/Untitled?fuid=1165328064245414931)
+-   Figma: [Projeto no Figma](https://www.figma.com/design/NBYPVQZgF4cMe1t1GXjtJO/Untitled?fuid=1165328064245414931)
 
 # 1. Desenvolvimento
 
