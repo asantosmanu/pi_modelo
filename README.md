@@ -1,4 +1,4 @@
-# INOVAHOUSE
+ # INOVAHOUSE
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Um site de imobiliária baseado no site "RAFAEL FONSECA", que consiste em vendas de imoveis em diferentes lugares. Contendo o acesso de cadastro para o cliente quanto para anunciar seu imóvel. )*
@@ -87,13 +87,4 @@ Se houver mais de um nível de usuário. O cliente terá o acesso a navegação 
 
 # 4. Modelagem de Dados
 
-(*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
-
-Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
-
-<!--
-
-
-
- -->
+![Diagrama](https://snapWONDERS.com/my/images/for/convert/ref/32abcc88c7-1516730-669b12b52d520/DIAGRAMA.webp)
