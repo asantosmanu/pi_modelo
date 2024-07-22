@@ -87,4 +87,4 @@ Se houver mais de um nível de usuário. O cliente terá o acesso a navegação 
 
 # 4. Modelagem de Dados
 
-![Diagrama](https://snapWONDERS.com/my/images/for/convert/ref/32abcc88c7-1516730-669b12b52d520/DIAGRAMA.webp)
+![Diagrama](img/Diagrama.png "Diagrama")
